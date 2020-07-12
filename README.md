@@ -1,4 +1,4 @@
-# Demo Java Web App
+# Demo Java Web App built for Logicalis Singapore
 
 Simple java project demos how to build a war file to be deployed on a Tomcat server.
 
